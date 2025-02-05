@@ -2,6 +2,12 @@ Desktop Organizer Script
 
 // THIS PROJECT CREATED BY USING CURSOR AI
 
+![Image](https://github.com/user-attachments/assets/10dfdc02-1ee5-42bb-986e-12114422efd1)
+
+![Image](https://github.com/user-attachments/assets/448bf89b-ef70-4702-92c5-0a811a6d8868)
+
+
+
 This Python script helps you organize your messy desktop by categorizing files into specific folders based on their file types.
 
 
