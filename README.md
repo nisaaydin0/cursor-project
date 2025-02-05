@@ -1,5 +1,7 @@
 Desktop Organizer Script
 
+// THIS PROJECT CREATED BY USING CURSOR AI
+
 This Python script helps you organize your messy desktop by categorizing files into specific folders based on their file types.
 
 
